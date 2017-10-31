@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c3031475137dcb4bb0b83dd441bada4
+timeCreated: 1501706981
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: dozhwalotf
+  fontNames:
+  - dozhwalotf
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
