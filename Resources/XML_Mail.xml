@@ -1,0 +1,9 @@
+<Mails>
+	<Mail id="0" from="Directeur" object="Bienvenue"> Ceci est un email du directeur avec l'id numero 0 </Mail>
+	
+	<Mail id="1" from="DGOS" object="Vous"> Ceci est un email de la DGOS avec l'id 1</Mail>
+	
+	<Mail id="2" from="Michel" object="Vous"> Ceci est un email de michel avec l'id 2</Mail>
+	
+	
+</Mails>
