@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: d9750032df3175e4d96e5d36251c3bdf
+timeCreated: 1501675333
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arbre
+    100002: arbre001
+    100004: arbre002
+    100006: arbre003
+    100008: armoire
+    100010: armoire 2
+    100012: boite
+    100014: boite ouverte
+    100016: box rangement
+    100018: box rangement001
+    100020: bush
+    100022: bush001
+    100024: C_man_1_FBX2013
+    100026: cadre
+    100028: caisson
+    100030: chaise
+    100032: chaise bois
+    100034: classeurs
+    100036: Cylinder005
+    100038: Cylinder008
+    100040: Cylinder009
+    100042: "etag\xE8re"
+    100044: fenetre
+    100046: fenetre001
+    100048: FStormCamera_001
+    100050: FStormCamera_001.Target
+    100052: FStormLight_002
+    100054: herbe
+    100056: herbe 1
+    100058: herbe001
+    100060: herbe002
+    100062: lampe
+    100064: livre
+    100066: livre 1
+    100068: livres set
+    100070: MUR
+    100072: MUR-couloir
+    100074: MUR-couloir2
+    100076: MUR-couloir3
+    100078: MUR001
+    100080: MUR002
+    100082: MUR003
+    100084: ordi
+    100086: paquet feuilles
+    100088: paquet feuilles001
+    100090: parking
+    100092: PERSO
+    100094: plateau
+    100096: porte
+    100098: porte 003
+    100100: porte 004
+    100102: porte 005
+    100104: porte 006
+    100106: porte 2
+    100108: poubell
+    100110: radiateur
+    100112: //RootNode
+    100114: SOL
+    100116: SOL-couloir
+    100118: Sphere006
+    100120: Sphere007
+    100122: table
+    100124: tapis
+    100126: tiroirs
+    100128: ZONE PERSO
+    400000: arbre
+    400002: arbre001
+    400004: arbre002
+    400006: arbre003
+    400008: armoire
+    400010: armoire 2
+    400012: boite
+    400014: boite ouverte
+    400016: box rangement
+    400018: box rangement001
+    400020: bush
+    400022: bush001
+    400024: C_man_1_FBX2013
+    400026: cadre
+    400028: caisson
+    400030: chaise
+    400032: chaise bois
+    400034: classeurs
+    400036: Cylinder005
+    400038: Cylinder008
+    400040: Cylinder009
+    400042: "etag\xE8re"
+    400044: fenetre
+    400046: fenetre001
+    400048: FStormCamera_001
+    400050: FStormCamera_001.Target
+    400052: FStormLight_002
+    400054: herbe
+    400056: herbe 1
+    400058: herbe001
+    400060: herbe002
+    400062: lampe
+    400064: livre
+    400066: livre 1
+    400068: livres set
+    400070: MUR
+    400072: MUR-couloir
+    400074: MUR-couloir2
+    400076: MUR-couloir3
+    400078: MUR001
+    400080: MUR002
+    400082: MUR003
+    400084: ordi
+    400086: paquet feuilles
+    400088: paquet feuilles001
+    400090: parking
+    400092: PERSO
+    400094: plateau
+    400096: porte
+    400098: porte 003
+    400100: porte 004
+    400102: porte 005
+    400104: porte 006
+    400106: porte 2
+    400108: poubell
+    400110: radiateur
+    400112: //RootNode
+    400114: SOL
+    400116: SOL-couloir
+    400118: Sphere006
+    400120: Sphere007
+    400122: table
+    400124: tapis
+    400126: tiroirs
+    400128: ZONE PERSO
+    2300000: arbre
+    2300002: arbre001
+    2300004: arbre002
+    2300006: arbre003
+    2300008: armoire
+    2300010: armoire 2
+    2300012: boite
+    2300014: boite ouverte
+    2300016: box rangement
+    2300018: box rangement001
+    2300020: bush
+    2300022: bush001
+    2300024: C_man_1_FBX2013
+    2300026: cadre
+    2300028: caisson
+    2300030: chaise
+    2300032: chaise bois
+    2300034: classeurs
+    2300036: Cylinder005
+    2300038: Cylinder008
+    2300040: Cylinder009
+    2300042: "etag\xE8re"
+    2300044: fenetre
+    2300046: fenetre001
+    2300048: herbe
+    2300050: herbe 1
+    2300052: herbe001
+    2300054: herbe002
+    2300056: lampe
+    2300058: livre
+    2300060: livre 1
+    2300062: livres set
+    2300064: MUR
+    2300066: MUR-couloir
+    2300068: MUR-couloir2
+    2300070: MUR-couloir3
+    2300072: MUR001
+    2300074: MUR002
+    2300076: MUR003
+    2300078: ordi
+    2300080: paquet feuilles
+    2300082: paquet feuilles001
+    2300084: parking
+    2300086: plateau
+    2300088: porte
+    2300090: porte 003
+    2300092: porte 004
+    2300094: porte 005
+    2300096: porte 006
+    2300098: porte 2
+    2300100: poubell
+    2300102: radiateur
+    2300104: SOL
+    2300106: SOL-couloir
+    2300108: Sphere006
+    2300110: Sphere007
+    2300112: table
+    2300114: tapis
+    2300116: tiroirs
+    2300118: ZONE PERSO
+    3300000: arbre
+    3300002: arbre001
+    3300004: arbre002
+    3300006: arbre003
+    3300008: armoire
+    3300010: armoire 2
+    3300012: boite
+    3300014: boite ouverte
+    3300016: box rangement
+    3300018: box rangement001
+    3300020: bush
+    3300022: bush001
+    3300024: C_man_1_FBX2013
+    3300026: cadre
+    3300028: caisson
+    3300030: chaise
+    3300032: chaise bois
+    3300034: classeurs
+    3300036: Cylinder005
+    3300038: Cylinder008
+    3300040: Cylinder009
+    3300042: "etag\xE8re"
+    3300044: fenetre
+    3300046: fenetre001
+    3300048: herbe
+    3300050: herbe 1
+    3300052: herbe001
+    3300054: herbe002
+    3300056: lampe
+    3300058: livre
+    3300060: livre 1
+    3300062: livres set
+    3300064: MUR
+    3300066: MUR-couloir
+    3300068: MUR-couloir2
+    3300070: MUR-couloir3
+    3300072: MUR001
+    3300074: MUR002
+    3300076: MUR003
+    3300078: ordi
+    3300080: paquet feuilles
+    3300082: paquet feuilles001
+    3300084: parking
+    3300086: plateau
+    3300088: porte
+    3300090: porte 003
+    3300092: porte 004
+    3300094: porte 005
+    3300096: porte 006
+    3300098: porte 2
+    3300100: poubell
+    3300102: radiateur
+    3300104: SOL
+    3300106: SOL-couloir
+    3300108: Sphere006
+    3300110: Sphere007
+    3300112: table
+    3300114: tapis
+    3300116: tiroirs
+    3300118: ZONE PERSO
+    4300000: SOL
+    4300002: C_man_1_FBX2013
+    4300004: ZONE PERSO
+    4300006: MUR
+    4300008: MUR001
+    4300010: tiroirs
+    4300012: table
+    4300014: livre
+    4300016: livre
+    4300018: fenetre
+    4300020: caisson
+    4300022: cadre
+    4300024: Cylinder005
+    4300026: box rangement
+    4300028: ordi
+    4300030: lampe
+    4300032: armoire
+    4300034: poubell
+    4300036: Cylinder008
+    4300038: chaise
+    4300040: tapis
+    4300042: MUR002
+    4300044: MUR003
+    4300046: porte
+    4300048: chaise bois
+    4300050: plateau
+    4300052: armoire 2
+    4300054: Cylinder009
+    4300056: livres set
+    4300058: radiateur
+    4300060: porte 2
+    4300062: "etag\xE8re"
+    4300064: classeurs
+    4300066: boite ouverte
+    4300068: boite
+    4300070: paquet feuilles
+    4300072: paquet feuilles001
+    4300074: box rangement001
+    4300076: SOL-couloir
+    4300078: MUR-couloir
+    4300080: fenetre001
+    4300082: porte 003
+    4300084: porte 004
+    4300086: MUR-couloir2
+    4300088: MUR-couloir3
+    4300090: porte 005
+    4300092: porte 006
+    4300094: arbre
+    4300096: arbre001
+    4300098: arbre002
+    4300100: Sphere006
+    4300102: Sphere007
+    4300104: arbre003
+    4300106: herbe
+    4300108: herbe
+    4300110: herbe001
+    4300112: herbe002
+    4300114: parking
+    4300116: bush
+    4300118: bush001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
